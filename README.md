@@ -25,3 +25,11 @@ Almost done! I just added all the 3D models to my PCB and started writing my cod
 ![Screenshot 2026-04-01 at 20.03.52](https://stasis.hackclub-assets.com/images/1775070311829-xu3s9v.png)
 
 ![Screenshot 2026-04-01 at 17.15.39](https://stasis.hackclub-assets.com/images/1775070314937-me1ovv.png)
+
+## Pathfinder Session 4 - 1 hour
+
+Spent just 1 hour putting together all my code! Started some of it yesterday and just waiting for a sanity check from Slack!
+
+![Screenshot 2026-04-02 at 15.45.59](https://stasis.hackclub-assets.com/images/1775141164563-h7l7pr.png)
+
+![Screenshot 2026-04-02 at 15.46.14](https://stasis.hackclub-assets.com/images/1775141178460-v741lh.png)
