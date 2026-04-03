@@ -33,3 +33,11 @@ Spent just 1 hour putting together all my code! Started some of it yesterday and
 ![Screenshot 2026-04-02 at 15.45.59](https://stasis.hackclub-assets.com/images/1775141164563-h7l7pr.png)
 
 ![Screenshot 2026-04-02 at 15.46.14](https://stasis.hackclub-assets.com/images/1775141178460-v741lh.png)
+
+## Pathfinder Session 5 - 10 Minutes
+
+Made some simple PCB fixes and researched into adding the Hack Club logo to the PCB. Also made some quick changes to the code. 
+
+![Screenshot 2026-04-03 at 19.42.33](https://stasis.hackclub-assets.com/images/1775241758251-62lg1c.png)
+
+![Screenshot 2026-04-03 at 19.42.55](https://stasis.hackclub-assets.com/images/1775241778342-r4ih2s.png)
