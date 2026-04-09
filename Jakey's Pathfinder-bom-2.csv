@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","it is the PCB ",1,4.20,"https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=6cb448450094446d9685746255efa324&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&spm=Jlcpcb.Partcart.1002","JLCPCB"
+"100ohms Resistors","To stop 5V getting to LEDs and frying them",3,0.29,"https://www.digikey.co.uk/en/products/detail/stackpole-electronics-inc/RNF14FTD100R/1706589","DigiKey"
+"LEDs","To Show Data / Play Game",3,0.21,"https://www.digikey.co.uk/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265","DigiKey"
+"KeyCaps for Keys","To act as keycaps",4,4.27,"https://www.digikey.co.uk/en/products/detail/sparkfun-electronics/15305/10130914","DigiKey"
+"Cherry MX Switches","To Control the Pathfinder ",4,5.02,"https://www.digikey.co.uk/en/products/detail/cherry-americas-llc/MX1A-C1NW/280855","DigiKey"
+"Seeed XIAO RP2040","The main board of the Pathfinder",1,4.73,"https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/102010428/14672129","DigiKey"
